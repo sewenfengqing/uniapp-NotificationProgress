@@ -179,4 +179,7 @@ app.$mount()
 //测试版本更新
 this.Version.downloadApkAndShowProgressForUpdate("https://www.***.com.cn/test.apk");
 ```
+4. 通知界面示例
+![notification](https://user-images.githubusercontent.com/27394458/111110464-8c940980-8597-11eb-82a0-92cdeb2fa3cf.jpeg)
+
 
