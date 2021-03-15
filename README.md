@@ -1,7 +1,6 @@
 # uniapp-NotificationProgress
 Android系统通知的实现；在通知栏中显示下载进度条；兼容android8.0及以上
 
-
  1. 创建version.js文件（封装了版本更新的业务处理）
 ```
 import NotifiUtil from './notification/notification.js'
